@@ -1,0 +1,3 @@
+[submodule "external/DataStream"]
+	path = external/DataStream
+	url = https://github.com/burninrubber0/DataStream
